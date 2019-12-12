@@ -1,0 +1,15 @@
+AIPND_Project2
+Create Your Own Image Classifier
+
+1. A great blog on Object-Detection Object detection is more difficult task than image classification as you can have more than 1 object in the same image
+Link: https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
+
+2. A guide to Semantic Segmentation for predicting the object class for each pixel.
+Link: http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
+
+3. Tutorial for Image Captioning Image Captioning is an even more difficult task than object detection as it requires abstractive summarisation and natural language sequence generation.
+Link: https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+
+4. Also, here is great PyTorch tutorial repo in general by Yunjey Choi
+Link: https://github.com/yunjey/pytorch-tutorial
+
