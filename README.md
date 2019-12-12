@@ -6,14 +6,14 @@ Second project in Udacity's Artificial Intelligence Programming with Python Nano
 
 1. Clone the repository
 ```console
-git clone https://github.com/atkatchev/ 
+git clone https://github.com/atkatchev/image-classification-application.git
 cd DLND_Project1_workspace 
 ```
 2. Open the Project file using jupyter notebook. Otherwise, open .html page
 ```console
 jupyter notebook Your_first_neural_network.ipynb
 ```
-3. Use SHIFT ENTER keys to run each cell
+3. Use **SHIFT** **ENTER** keys to run each cell
 4. Running the command line application please use below;
 Help: python train.py -h
 - Basic usage: python train.py data_directory
